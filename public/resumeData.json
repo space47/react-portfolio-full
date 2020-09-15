@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Varnit Gupta",
+    "occupation": "ReactJS & Native Developer && Learner",
+    "description": "Full Stack React Developer. #learner",
+    "image": "IG_Varnit.jpg",
+    "bio": "My name is Vanit, I'm a Full Stack ReactJS and Native Developer. Currenty I am learning ways to enhance my skills. ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "phone": "+91 9554436385",
+    "email": "varnitgupta47@gmail.com",
+    "address": {
+      "street": "Baur Bajar",
+      "city": "Banda",
+      "state": "Up",
+      "zip": "210201"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/varnit.gupta.58/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/varnit-gupta-38179b1a4/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/thereisvarnitgupta/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/space47",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that I use most",
+    "education": [
+      {
+        "school": "Oriental Institute of Science and Technology",
+        "degree": "Bachelor of Computer Science",
+        "graduated": "2nd Year",
+        "description": "Currently Persuing"
+      }
+    ],
+    "work": [
+      {
+        "company": "Space Developer ",
+        "title": "Team Owner && React Specialist",
+        "years": "July 2020 - Present",
+        "description": "Developing ReactJS Projects for Gaining knowledge."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Java",
+        "description": "Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image": "java.jpg"
+      },
+      {
+        "name": "React Js",
+        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "React Native",
+        "description": "I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
+        "image": "react.jpg"
+      },
+
+      {
+        "name": "Node JS",
+        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image": "node.jpg"
+      },
+      {
+        "name": "MongoDB",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "Heroku",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.jpg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone with Payment Gateway",
+        "category": "Amazon Clone built with ReactJS and Stipe Payment Gateway using Heroku",
+        "image": "amazon-clone.png",
+        "url": "https://clone-1c8cd.web.app/"
+      },
+      {
+        "title": "Google Clone",
+        "category": "Google Clone built with ReactJS and Google Search Engine API",
+        "image": "google-clone.png",
+        "url": "https://clone-ce914.web.app/"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Live Covid Tracker built with ReactJS",
+        "image": "covid19-tracker.png",
+        "url": "https://covid19-tracker-ba021.web.app/"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "tiktok-mern.jpeg",
+        "url": "https://tiktok-clone-7e684.web.app/"
+      },
+      {
+        "title": "Tinder/Tindev Clone",
+        "category": "Tinder Clone Build with React Js",
+        "image": "tinder-clone.png",
+        "url": "https://tinder-clone-476de.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "To be Filled",
+        "user": "Anyonym"
+      }
+    ]
+  }
+}
